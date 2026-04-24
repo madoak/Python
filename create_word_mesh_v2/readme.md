@@ -60,21 +60,21 @@ demo_dutch.docx         # example input
 ## Basic usage
 
 ```bash
-python create_word_mesh_v4.py --file demo_english.docx
+python create_word_mesh_v2.py --file demo_english.docx
 ```
 
 ## Specify output format
 
 ```bash
-python create_word_mesh_v4.py --file demo_dutch.docx --format png
-python create_word_mesh_v4.py --file demo_dutch.docx --format pdf
-python create_word_mesh_v4.py --file demo_dutch.docx --format both
+python create_word_mesh_v2.py --file demo_dutch.docx --format png
+python create_word_mesh_v2.py --file demo_dutch.docx --format pdf
+python create_word_mesh_v2.py --file demo_dutch.docx --format both
 ```
 
 ## Change output name
 
 ```bash
-python create_word_mesh_v4.py --file demo_english.docx --output result
+python create_word_mesh_v2.py --file demo_english.docx --output result
 ```
 
 ---
