@@ -139,18 +139,6 @@ english_cloud.pdf
 
 ---
 
-# 🛠️ Why this version is better
-
-Compared to NLTK-based versions:
-
-✔ No broken tokenizers  
-✔ No dependency download errors  
-✔ Better lemmatization (spaCy)  
-✔ More accurate stopword filtering  
-✔ Faster and more stable  
-
----
-
 # 📌 Use Cases
 
 - Academic text analysis
